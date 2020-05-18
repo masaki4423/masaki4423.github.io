@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on title</title>
-    <link>https://example.com/tags/index/</link>
+    <link>https://masaki4423.github.io/tags/index/</link>
     <description>Recent content in index on title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="https://example.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://masaki4423.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://example.com/blog/</link>
+      <link>https://masaki4423.github.io/blog/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/</guid>
+      <guid>https://masaki4423.github.io/blog/</guid>
       <description></description>
     </item>
     
